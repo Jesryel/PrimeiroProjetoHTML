@@ -1,3 +1,3 @@
 # PrimeiroProjetoHTML
 
-nunca tinha feito antes entao é bem basico
+nunca tinha feito uma pagina HTML antes entao é bem basico
